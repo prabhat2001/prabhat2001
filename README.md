@@ -3,14 +3,13 @@
 
 <h3 align="center">I am currently pursuing Information Technology from Indian Institute of Information Technology and Management, Gwalior, India (IIIT Gwalior). I enjoy solving technical problems, researching and developing new technologies. I am open to learning new things and getting involved with new projects that can help me learn and apply the best of my skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhat2001&label=Profile%20views&color=0e75b6&style=flat" alt="prabhat2001" /> </p>
 
 
 - 🔭 I have recently worked upon designing **Robust Adaptive Filters Adaptive filter for Active Noise Cancellation Systems.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and exploring the field of Web Development**
 
-<p><img align="right" alt="gif" width="300" src="https://github.com/prabhat2001/prabhat2001/blob/main/coding.gif"></p>
+<p><img align="right" alt="gif" width="200" src="https://github.com/prabhat2001/prabhat2001/blob/main/images.png"></p>
 
 - 📃 Ask me about C++, Python, Coding, Machine Learning **I am ready to help**
 
