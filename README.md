@@ -1,11 +1,16 @@
+<p><img align="right" alt="gif" width="400" src="https://dribbble.com/shots/6139167-Avento-marketing?utm_source=Clipboard_Shot&utm_campaign=peterhenderson&utm_content=Avento%20marketing&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=peterhenderson&utm_content=Avento%20marketing&utm_medium=Social_Share"></p>
+
+
 <h1 align="center">Hello World!!! 👋 This is Prabhat Dwivedi!</h1>
 <h3 align="center">I am currently pursuing Information Technology from Indian Institute of Information Technology and Management, Gwalior, India (IIIT Gwalior). I enjoy solving technical problems, researching and developing new technologies. I am open to learning new things and getting involved with new projects that can help me learn and apply the best of my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhat2001&label=Profile%20views&color=0e75b6&style=flat" alt="prabhat2001" /> </p>
 
+- 🌱 I’m currently learning **Data Structures and Algorithms and exploring the field of Web Development**
+
 - 🔭 I have recently worked upon designing **Robust Adaptive Filters Adaptive filter for Active Noise Cancellation Systems.**
 
-- 🌱 I’m currently learning **I’m currently learning Data Structures and Algorithms and exploring the field of Web Development**
+- 📃 Ask me about C++, Python, Coding, Machine Learning **I am ready to help**
 
 - 📫 How to reach me **prabhatdwivedi0208@gmail.com**
 
